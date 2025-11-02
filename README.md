@@ -1,18 +1,9 @@
-# Welcome to your Lovable project
+# Welcome to your Car DashBoard
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/284f37aa-3b98-4f91-a46b-ab54294735b5
+**URL**: https://car-dashboard.lovable.app/?utm_source=lovable-editor
 
-## How can I edit this code?
-
-There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/284f37aa-3b98-4f91-a46b-ab54294735b5) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
